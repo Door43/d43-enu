@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[enu:home|Door43 (enu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-enu|d43-enu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-enu/archive/master.zip|d43-enu.zip]]
+
+**Recent Changes**
+{{changes>ns = enu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/enu|Ethnologue data]]
+
